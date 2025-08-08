@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Analysis Dashboard – Power BI
+#🫀 Heart Disease Analysis Dashboard – Power BI
 
 An interactive Power BI Dashboard that analyzes and visualizes Heart disease patient data, providing insights into survival rates, age-related trends, and critical health risk factors.
 
