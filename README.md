@@ -9,6 +9,9 @@ An interactive Power BI Dashboard that analyzes and visualizes Heart disease pat
 This project leverages Power BI to transform raw medical data into clear, actionable insights.
 The dashboard helps researchers, health professionals, and analysts identify patterns in survival rates, the impact of key health conditions, and age-related risk trends.
 
+## Dataset used 
+ - <a href="https://github.com/Subhadhanush-R/Amazonprime-Analysis/blob/main/Amazonprime_Analysis.pbix">View Dashboard</a>
+ 
 ## 📊 Key Features
 ✅ KPI Overview
 * Displays Survival Rate, Average Age of Survival, Total Survivals, and Total Deaths for a quick patient data snapshot.
