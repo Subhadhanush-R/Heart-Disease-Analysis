@@ -12,7 +12,7 @@ The dashboard helps researchers, health professionals, and analysts identify pat
 ## Dataset used 
  - <a href="https://github.com/Subhadhanush-R/Heart-Disease-Analysis/blob/main/Heart_Disease_Analysis.pbix">View Dashboard</a>
 
-## 📊 Key Features
+## 📈 Key Features
 ✅ KPI Overview
 * Displays Survival Rate, Average Age of Survival, Total Survivals, and Total Deaths for a quick patient data snapshot.
 ✅ Survival Count & Avg. Serum Creatinine by Age Group
